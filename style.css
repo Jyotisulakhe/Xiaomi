@@ -1,0 +1,43 @@
+#logo{
+   height: 50px;
+   width: 50px; 
+   display: flex;
+}
+.cards{
+    margin-left: 20px;
+    height: 1000px;
+    width: 98%;
+    background-color: rgb(245, 245, 245);
+}
+#mid-img{
+   width: 20rem;
+    height: 8rem;
+    padding-top:50px;
+}
+#img5{
+    height: 500px;
+    width: 500px;
+}
+.navbar{
+    display: flex;
+    gap: 50px;
+    font-size: 28px;
+    margin-left: 90px;
+    color: black;
+    
+}
+#card1, #card2,#card3,#card4,#card5,#card6,#card7,#card8{
+    height: 14rem;
+   
+    display: flex;
+   width: 25rem;
+    margin-left: 25px;
+    
+   padding: 25px;
+}
+#sec-card{
+    padding-top:170px ;
+}
+.card{
+    display: flex;
+}
